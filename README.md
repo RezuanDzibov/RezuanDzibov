@@ -30,6 +30,8 @@ So far this is enough for me, but in near future (I hope) I will learn more abou
 ## Asynchronous
 ![python-asyncio](https://img.shields.io/badge/Asyncio-c6d40d?style=for-the-badge&logo=python)
 ![python-aiohttp](https://img.shields.io/badge/Aiohttp-c6d40d?style=for-the-badge&logo=python)
+## Telegram
+![python-aiogram](https://img.shields.io/badge/Aiogram-0099cc?style=for-the-badge&logo=python)
 ## Data Scraping
 ![python-selenium](https://img.shields.io/badge/Selenium-16D400?style=for-the-badge&logo=selenium)
 ![python-scrapy](https://img.shields.io/badge/Scrapy-white?style=for-the-badge&logo=python)
