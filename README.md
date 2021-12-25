@@ -3,7 +3,7 @@
 A few words about me. 
 My name is Rezuan Dzibov I am 17 years old, and I live in a small town in Russia.
 I have no hobbies like this because at this moment I am completely immersed in development. 
-But I read books about psychology, sociology and science fiction, not including books about development, but I can't always do it. 
+But I read books. 
 Fan I think would be a bit of a mouthful, but I follow a kind of motorsport called Drift. 
 # English
 Right now I'm actively learning English and improving it every day. 
