@@ -82,6 +82,6 @@
 <h2>My social links</h2>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/rezuan-dzibov-953612219/)
-[![Telegram](https://img.shields.io/badge/Telegram-skyblue?style=for-the-badge&logo=Telegram)](https://t.me/arxhangel_R_D)
+[![Telegram](https://img.shields.io/badge/Telegram-skyblue?style=for-the-badge&logo=Telegram)](https://t.me/rezuan_dzibov)
 
 <h1>Thanks for visiting my profile.</h1>
